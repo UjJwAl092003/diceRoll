@@ -1,0 +1,2 @@
+# diceRoll
+simple js project
